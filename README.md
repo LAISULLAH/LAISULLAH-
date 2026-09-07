@@ -2,62 +2,49 @@
 
 **Finding What Others Miss | OffSec • OSINT • Adversarial Research**
 
-A concise, professional GitHub profile focused on offensive security, OSINT, and adversarial research. I build practical tools and automations that support investigative workflows and threat research.
+A focused, technical profile for offensive security and investigative research. I build pragmatic tooling and automations that help find what others miss — concise, repeatable, and evidence-driven.
 
 ---
 
 ## About
 
-I focus on practical offensive security and intelligence workflows with an emphasis on:
-
-- Offensive security (VAPT, red teaming approaches)
-- OSINT and target intelligence collection
-- Adversarial research into systems and attack surfaces
-- Security automation to scale repetitive workflows and analysis
-- Learning and building practical security tools for investigations and testing
-
-I avoid overstated claims—this profile highlights interests, focus areas, and projects I maintain.
+Practical offensive security and intelligence: I combine targeted OSINT collection, adversarial research into attack surfaces, and security automation to streamline investigative workflows and red-team testing. I favour reproducible tooling and careful data-driven analysis over hype.
 
 ---
 
-## Focus areas
+## Focus
 
-- Offensive Security
+- Offensive Security & VAPT
 - Web Application Security
 - OSINT & Target Intelligence
 - Adversarial Research
-- Security Automation
+- Security Automation & Tooling
 - Red Team Labs
 
 ---
 
-## Tools & Technologies
+## Toolkit
 
-Tools and platforms commonly used in my workflows:
+Representative technologies and tools I use (selected, not exhaustive):
 
-- Linux
-- Python
-- Nmap
-- Burp Suite
-- SQLMap
-- Metasploit
-- OSINT tooling and frameworks
-- Git / GitHub
-
-This list is representative of tools I use in practical investigations and testing; it does not imply exhaustive mastery of every item.
+`Linux` · `Python` · `Nmap` · `Burp Suite` · `SQLMap` · `Metasploit` · `OSINT tooling` · `Git` / `GitHub`
 
 ---
 
-## Projects
+## Selected Work
 
-- **AI-Powered VAPT Toolkit** — A toolkit and research project focused on automating vulnerability assessment and penetration testing workflows. Repository: https://github.com/LAISULLAH/AI-VAPT-Project
+- **AI-Powered VAPT Toolkit** — Automates parts of vulnerability assessment and testing workflows. Repository: https://github.com/LAISULLAH/AI-VAPT-Project
 
-- **OSINT Target Intelligence** — Collection and profiling workflows for target intelligence and investigative research. (No repository link provided here.)
-
-- **Project KAI — Desktop Pet** — A personal desktop project. (No repository link provided here.)
-
-If you maintain repositories for the two projects above and want them linked from this README, add the repos to this account or share the exact repository names and I will update the links.
+- **OSINT Target Intelligence** — Structured open-source collection and profiling techniques for investigative research. (No repository link provided.)
 
 ---
 
-Focused on security research, building practical tools, and continuous learning.
+## Current Direction
+
+- Building reliable tooling to automate repetitive investigation tasks and triage.
+- Researching adversarial techniques against modern web and API surfaces.
+- Developing measured red-team labs to validate detection and countermeasures.
+
+---
+
+Focused on careful research, practical tools, and continuous learning in offensive security and OSINT.
